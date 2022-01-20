@@ -43,7 +43,7 @@
                         <RotateTransform3D>
                             <RotateTransform3D.Rotation>
                                 <AxisAngleRotation3D x:Name="rotate"
-                                                     Axis="1 1 0"/>
+                                                     Axis="0 1 0"/>
                             </RotateTransform3D.Rotation>
                         </RotateTransform3D>
                     </ModelVisual3D.Transform>
